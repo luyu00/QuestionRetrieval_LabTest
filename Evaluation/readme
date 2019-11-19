@@ -1,0 +1,5 @@
+This folder contains code for conducting evaluation for the retrieved results.
+The retrieved results were first rated by human annotator with a score range 0-5, both inclusice.
+The rating of the three annotators were averaged to form a gold standard rating.
+Then the code was applied for evaluation purposes. 
+For evluation metrics, nDCG (normalized discounted cumulative gain) and effect size were used.
