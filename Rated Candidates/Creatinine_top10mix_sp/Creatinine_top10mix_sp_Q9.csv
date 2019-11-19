@@ -1,0 +1,13 @@
+,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Creatinine test,Creatinine range,GS
+2589274,i am 58 yrs old my creatinine are 6.7 how long will i live without dailysis? ,[],[],"['Creatinine', '=', '58', 'Creatinine', '=', '6.7']",1,1.000000119,0.99999994,1,1,1,1,1,
+,,,,,,,,,,,,,
+3455113,"Im male 45 years old, my creatinine results is 71.3 what is its means? ",[],[],"['Creatinine', '=', '45', 'years', 'Creatinine', '=', '71.3']",0.140986259,0.826978743,0.685003579,0.846153846,0.818181818,1,1,1,2.666666667
+490298,"What is Serum Chemistry. My Serum Creatinine shows 1.50MG/DL, what that means & what precaution should be take? ",[],[],"['Creatinine', '=', '1.50', 'mg/dl']",0.033090143,0.675439119,0.334954023,0.846153846,0.909090909,1,1,0.333333333,2.333333333
+560891,My creatinine level was 2.37. I am a type one diabetic ... what should I do ? ,[],[],"['Creatinine', '=', '2.37']",0.056643423,0.83370316,0.650689125,0.923076923,1,1,1,0.333333333,2
+3462200,"diabetes, creatinine 3? my mother has type 2 diabetes, now creatinine level is 3. any suggestions?",[],[],"['Creatinine', '=', '3']",0.092000022,0.685417771,0.589777827,1,0.909090909,0,1,0.333333333,2
+3215885,My father is 80 and diabetic. His creatinine hovers around 2.0. How can this be brought down? ,[],[],"['Creatinine', '=', '2.0']",0.04126423,0.795073986,0.617195606,0.923076923,0.909090909,1,1,0.333333333,1.666666667
+3386256,MY CREATININE LEVEL IS 2.04 . so how to decrease the creatinine level? Pls tell.,[],[],"['Creatinine', '=', '2.04']",0.083597077,0.716826081,0.659277916,0.923076923,0.818181818,1,1,0.333333333,1.666666667
+2420520,how long can you live with diabetes 2? ,[],[],[],0.320508459,0.676131547,0.685078859,0.384615385,0.818181818,1,0,0,1
+3455261,How long they can live the human who has type 1 diabetes ? ,[],[],[],0.212326097,0.626339197,0.579023123,0.769230769,0.909090909,1,0,0,1
+72773,"if creatinine level is 42 in the result of blood test, is it serious problem in the renal function? ",[],[],"['Creatinine', '=', '42']",0.037821024,0.561165571,0.612761021,0.769230769,1,0,1,1,0.666666667
+2994622,How long will a dog live with diabetes? ,,,,0.235574924,0.626538158,0.562321544,0.384615385,0.727272727,1,0,0,0.666666667

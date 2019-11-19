@@ -1,0 +1,8 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+3779970,"my 5 year old child fasting blood sugar is 110mg/dl ,How it is normal or she want to medicine,? ","[,', 'Glucose,', '=', '110,', 'mg/dl]",[],[],1,1.000000119,1.000000238,1,1,0,1,1,
+,,,,,,,,,,,,,
+430242,my 13 year olds blood sugar Level first thing in the morning before eating was 120 is this ok? ,"[,', 'blood_glucose_measurement,', '=', '120,]",[],[],0.090467788,0.76457262,0.857860506,1,0.857142857,0,1,1,4.333333333
+3455114,"Im male 45 years old, my fasting blood sugar results is 4.9 what is its means? ","[ 'Glucose,', '=', '4.9,]",[],[],0.17422401,0.774936378,0.665818811,0.727272727,0.714285714,1,1,0.666666667,3.333333333
+2367457,My Nan has a blood sugar level of 2 I know this is bad (but how bad?)? thanks,"['blood_glucose_measurement,', '=', '2,']",[],[],0.043258204,0.807199597,0.777411878,0.909090909,1,1,1,0.666666667,2.333333333
+1657155,"my fasting blood sugar 141 mg/dl & pp sugar is 110mg/dl, what does it mean? ","['Glucose,', '=', '141,', 'mg/dl,', 'Glucose,', '=', '110,', 'mg/dl']",[],[],0.312828796,0.806956351,0.76979816,0.636363636,0.857142857,1,1,0.666666667,2
+3401671,"pre-diabetic fasting blood sugar 78 is it low,and how fast can your sugar drop? ","['Glucose,', '=', '78,']",[],[],0.217412106,0.730677605,0.748321533,0.545454545,0.857142857,1,1,0.666666667,1.333333333

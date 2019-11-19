@@ -1,0 +1,9 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+430242,my 13 year olds blood sugar Level first thing in the morning before eating was 120 is this ok? ,"[,', 'blood_glucose_measurement,', '=', '120,]",[],[],1,0.99999994,1,1,1,0,1,1,
+,,,,,,,,,,,,,
+3779970,"my 5 year old child fasting blood sugar is 110mg/dl ,How it is normal or she want to medicine,? ","[,', 'Glucose,', '=', '110,', 'mg/dl]",[],[],0.116413094,0.76457262,0.857860506,1,0.875,0,1,1,4
+1645923,is 110 blood sugar level before breakfast something to worry about? Thank you in advance,"['blood_glucose_measurement,', '=', '110,']",[],[],0.047920012,0.740240812,0.818601787,0.636363636,0.75,0,1,1,3.666666667
+1917603,my blood sugar level was 136 after meal. is it normal or im diabetic ? im very worried? ,"['blood_glucose_measurement,', '=', '136,']",[],[],0.043080234,0.790710628,0.870501518,0.909090909,1,0,1,0.666666667,3.666666667
+1206724,is 160 blood surgar count high? Im 53 yr. old man with blood sugar level 160,"['blood_glucose_measurement,', '=', '160,']",[],[],0.07287798,0.714839041,0.825938225,0.727272727,0.375,0,1,0.666666667,3.333333333
+993503,"my blood sugar level are on fasting 157, after the break fast-335. what doest this mean? ","['blood_glucose_measurement,', '=', '157,']",[],[],0.047920012,0.794730246,0.698192,0.727272727,1,1,1,0.666666667,3
+,,,,,,,,,,,,,

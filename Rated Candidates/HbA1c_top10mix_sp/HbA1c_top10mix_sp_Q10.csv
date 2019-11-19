@@ -1,0 +1,13 @@
+﻿,,,,,TF-IDF,ELMo,Universal Sentence Encoder,Sentence length,Stopword count,WH question type,HbA1c test,HbA1c range,GS
+568193,my a1c is 5.4 do i have pre-diabetes? i am anemic and my a1c is 5.4 do i have pre-diabetes,[],"['HBA1C,', '=', '5.4,']",[],1,1,1,1,1,0,1,1,
+,,,,,,,,,,,,,
+3780245,"HbA1c of 5.7, am i prediabetic? ",[],"['HBA1C,', '=', '5.7,']",[],0.252757687,0.669393838,0.814092755,0.066666667,0.5,0,1,0.666666667,4.555555556
+246859,my fbs test 120mg/dl and hba1c 5.9% do i have diabetes ? do i have diabetes ?,"['Glucose,', '=', '120,', 'mg/dl']","['HBA1C,', '=', '5.9,', '%']",[],0,0.88102293,0.79418385,0.8,0.75,0,1,0.666666667,4
+3440084,My fbs test 113 mg/dl and hba1c 5.9% do i have diabetes ? ,"['Glucose,', '=', '113,', 'mg/dl']","['HBA1C,', '=', '5.9,', '%']",[],0,0.865249515,0.831298947,0.533333333,0.625,0,1,0.666666667,3.666666667
+1682524,A1C of 6.7 in a woman of 64? Is this diabetes or pre diabetes,[],"['HBA1C,', '=', '6.7,']",[],0.085158252,0.684901714,0.768551827,0.6,0.75,0,1,0.333333333,3.333333333
+24420,my a1c is 6.1.would you take the med metformin are try dieting first? ,[],"['HBA1C,', '=', '6.1,']",[],0.077778123,0.790706992,0.789993823,0.533333333,0.75,0,1,0.666666667,2.333333333
+790946,LOST 8-9-10 POUNDS...NOT DIABETIC BUT A1C WAS 6.1 IN JULY...WILL LOSING SOME WEIGHT HELP MY NEXT TESTING? ,[],"['HBA1C,', '=', '6.1,']",[],0.063244031,0.717338562,0.790884972,0.8,0.125,0,1,0.666666667,2.333333333
+3386238,How do i lower my a1c quickly im diabetic and its at 14 i have about 2 month? ,[],"['HBA1C,', '=', '14.0,']",[],0.088198303,0.866982698,0.834887862,0.866666667,0.875,1,1,0.333333333,1.333333333
+519713,"Question about being prediabetic? If your prediabetic, does that mean you will eventually become diabetic?",,,,0.295530249,0.680985987,0.821254134,0.666666667,1,0,0,0,1
+1265987,What should a prediabetic eat and how much exercise? ,,,,0.193024267,0.525192678,0.70724082,0.266666667,0.625,1,0,0,0.666666667
+998413,Overwieght!?!?!?!?!?!? I am like 54 and 12 is 116lb to high???,[],[],[],0.20238552,0.738042951,0.674944043,0.4,0.625,0,0,0,0.333333333

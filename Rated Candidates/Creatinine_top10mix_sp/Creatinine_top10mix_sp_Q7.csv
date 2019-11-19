@@ -1,0 +1,13 @@
+,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Creatinine test,Creatinine range,GS
+206995,What does this creatinine thing mean? Creatinine 5.7 - Consistent with kidntey failure?,[],[],"['Creatinine', '=', '5.7']",1,1,1,1,1,1,1,1,
+,,,,,,,,,,,,,
+490298,"What is Serum Chemistry. My Serum Creatinine shows 1.50MG/DL, what that means & what precaution should be take? ",[],[],"['Creatinine', '=', '1.50', 'mg/dl']",0.095867677,0.768956184,0.589958072,0.642857143,0.6,1,1,1,3.833333333
+3251083,Is s. creatinine 1.6 mg/dl high? what foods should be eaten to control it.? ,[],[],"['Creatinine', '=', '1.6', 'mg/dl']",0.061169558,0.695136309,0.67449069,0.928571429,0.8,1,1,1,3.333333333
+3455113,"Im male 45 years old, my creatinine results is 71.3 what is its means? ",[],[],"['Creatinine', '=', '45', 'years', 'Creatinine', '=', '71.3']",0.104331382,0.660332918,0.767101944,0.928571429,0.8,1,1,0.333333333,3
+3462199,my 16 yo sons Creatinine level is 115. What does this mean? ,[],[],"['Creatinine', '=', '16', 'Creatinine', '=', '115']",0.133726164,0.752866089,0.687642455,0.928571429,0.8,1,1,1,3
+3386256,MY CREATININE LEVEL IS 2.04 . so how to decrease the creatinine level? Pls tell.,[],[],"['Creatinine', '=', '2.04']",0.121811352,0.763262868,0.76425612,0.857142857,0.8,1,1,1,2.833333333
+1626443,my creatinine is 1.6. what is the treatment for it? ,[],[],"['Creatinine', '=', '1.6']",0.109392175,0.746512651,0.752490938,0.785714286,0.6,1,1,1,2.666666667
+3780245,"HbA1c of 5.7, am i prediabetic? ",[],"['HBA1C,', '=', '5.7,']",[],0.202302019,0.58962208,0.634334683,0.5,1,0,0,0,1.666666667
+490322,how can i increase my creatinine level? ,,,,0.121811352,0.727392077,0.656940579,0.571428571,0.8,1,0,0,1.333333333
+2758758,What is meaning for serum beta hcg < .1? ,[],[],[],0.076042675,0.695427537,0.664133191,0.714285714,0.8,1,0,0,0.666666667
+189817,How is the Hormone Insulin Carried from the skin to the Oragn that it affects? First Answer 10 points,[],[],[],0,0.684093714,0.551703334,0.571428571,0.4,1,0,0,0.333333333

@@ -1,0 +1,27 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+2882318,how do you interpret a Fasting Plasma Glucose level of 6.2 mmol/l ? ,"['plasma_glucose_result,', '=', '6.2,', 'mmol/l']",[],[],1,1,1,1,1,1,1,1,
+,,,,,,,,,,,,,
+3774608,129/91 bp what is the interpretation? What is the interpretation of a bp result of 129/91?,[],[],[],0.245943359,0.576745808,0.512766838,0.75,1,1,0,0,3.666666667
+300924,If you are a diabetic with blood glucose of 13 mmol/l what does this mean? Good or bad? ,"['Glucose,', '=', '13,', 'mmol/l']",[],[],0.206985225,0.742209613,0.79896462,0.583333333,0.428571429,1,1,0.666666667,3.333333333
+1556401,26yrs weigh 72kg.is this bad? My blood sugar level is 6.1 what does this mean? ,"['blood_glucose_measurement,', '=', '6.1,']",[],[],0.04312795,0.641155958,0.801302016,0.833333333,0.857142857,1,1,1,3.333333333
+187257,my fasting plasma glucose is  4.7mmoi/L.is that normal? ,"['Glucose,', '=', '4.7,']",[],[],0.32181152,0.672201574,0.858028054,0.583333333,0.714285714,0,1,0.666666667,3.222222222
+53967,"my post fasting blood sugar level is 65, what does it mean? ","['blood_glucose_measurement,', '=', '65,']",[],[],0.12460371,0.723775983,0.842833519,0.916666667,1,1,1,0.666666667,2.666666667
+148260,what does a fasting blood sugar level of 107 mean? ,"['blood_glucose_measurement,', '=', '107,']",[],[],0.156808219,0.77212286,0.844064951,0.75,0.857142857,1,1,1,2.666666667
+2247438,why plasma glucose is 10 to 15% higher than corresponding whole blood glucose concentration? ,"['plasma_glucose_result,', '>=', '10,', '%,', 'plasma_glucose_result,', '<=', '15,', '%']",[],[],0.179704075,0.70949477,0.803624809,0.916666667,0.857142857,1,1,0.666666667,1.333333333
+3440188,normal levels of glucose treatment for levels of 11.4? ,"['Glucose,', '=', '11.4,']",[],[],0.159107481,0.635241807,0.767620564,0.666666667,0.571428571,0,1,0.666666667,1
+19741,Fasting glucose check? Is is 24 hours too long or not to fast for a fasting blood glucose check?Thanks,[s],[],[],0.201098463,0.665272713,0.787467241,0.5,0.714285714,0,1,0,0.333333333
+28985,for blood glucose monitoring...can someone please  tell me - is 5.3 mmol/L  = 53mg/dL  ? ,"['Glucose,', '=', '5.3,', 'mmol/l,', 'Glucose,', '=', '53,', 'mg/dl']",[],[],0.174675878,0.725849092,0.71544683,0.833333333,0.714285714,0,1,0.666666667,0.333333333
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

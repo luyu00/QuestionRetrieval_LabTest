@@ -1,0 +1,13 @@
+,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Creatinine test,Creatinine range,GS
+490298,"What is Serum Chemistry. My Serum Creatinine shows 1.50MG/DL, what that means & what precaution should be take? ",[],[],"['Creatinine', '=', '1.50', 'mg/dl']",1,1.000000119,1,1,1,1,1,1,
+,,,,,,,,,,,,,
+2881861,My father had diabetes and his Serum Creatinine 2.0 and Blood Urea is 70. How severe are these values? ,[],[],"['Creatinine', '=', '2.0', 'Creatinine', '=', '70']",0.127647212,0.754440427,0.599373102,0.933333333,0.833333333,1,1,1,4.166666667
+1626443,my creatinine is 1.6. what is the treatment for it? ,[],[],"['Creatinine', '=', '1.6']",0.071799421,0.839033663,0.633456707,0.466666667,1,1,1,1,4
+3386264,my serum creatinine level is 1.42 is it riski? i am alcoholic,[],[],"['serum_creatinine_level', '=', '1.42']",0.174518516,0.736571729,0.683628857,0.6,1,0,1,1,3.666666667
+560891,My creatinine level was 2.37. I am a type one diabetic ... what should I do ? ,[],[],"['Creatinine', '=', '2.37']",0.060941684,0.754455447,0.5881176,0.933333333,0.833333333,1,1,1,3.666666667
+206995,What does this creatinine thing mean? Creatinine 5.7 - Consistent with kidntey failure?,[],[],"['Creatinine', '=', '5.7']",0.15785546,0.768956184,0.589958072,0.666666667,0.666666667,1,1,1,2.555555556
+1224625,"My mother aged 45 has only one kidney.creatinine level 4.2,Urea 50,what diet she should take,what medicine? ",[],[],"['Creatinine', '=', '4.2', 'Creatinine', '=', '50']",0,0.700030088,0.374517918,0.866666667,0.833333333,0,1,1,2.333333333
+3462200,"diabetes, creatinine 3? my mother has type 2 diabetes, now creatinine level is 3. any suggestions?",[],[],"['Creatinine', '=', '3']",0.096801062,0.709092498,0.48193568,0.866666667,1,0,1,1,2.333333333
+3251169,If creatinine is given as 278 what is the unit it is expressed? My BUN level is 21.,[],[],"['Creatinine', '=', '278']",0.041999697,0.779499054,0.480995685,1,1,1,1,1,1
+2758758,What is meaning for serum beta hcg < .1? ,[],[],[],0.25605883,0.700330973,0.611446321,0.4,0.5,1,0,0,0.666666667
+96596,Whats a good exercise regimen for someone w/ Type 2 Diabetes? ,[],[],[],0,0.72729528,0.468298763,0.533333333,0.5,1,0,0,0.333333333

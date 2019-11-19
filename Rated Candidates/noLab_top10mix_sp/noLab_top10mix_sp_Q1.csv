@@ -1,0 +1,13 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,,,Q1 - GS
+762667,Can you live a long life with type 2 diabetes? ,[],[],[],1,1,1.000000119,1,1,0,,,
+,,,,,,,,,,,,,
+2420520,how long can you live with diabetes 2? ,[],[],[],0.694807532,0.790040135,0.799347282,0.833333333,0.857142857,1,,,4.833333333
+3031515,how long can a type 2 diabetic survive without food or water? ,[],[],[],0.196426959,0.721682668,0.751546741,0.833333333,0.857142857,1,,,4
+3455261,How long they can live the human who has type 1 diabetes ? ,[],[],[],0.502442494,0.724847794,0.843984008,0.75,0.714285714,1,,,3.333333333
+2994622,How long will a dog live with diabetes? ,,,,0.448281866,0.700112939,0.62706095,0.833333333,1,1,,,3
+2589274,i am 58 yrs old my creatinine are 6.7 how long will i live without dailysis? ,[],[],"['Creatinine', '=', '58', 'Creatinine', '=', '6.7']",0.191058506,0.616200447,0.592760921,0.5,0.571428571,1,,,2.333333333
+3079525,Can you drink alcohol when you have type 2 diabetes.? ,[],[],[],0.115223549,0.748552918,0.834579051,1,1,1,,,2.333333333
+72824,"Can Diabetes type 1, result in pancreatic cancer in long run,  how is type 1 diabetes caused ? ",[],[],[],0.23091615,0.675864935,0.813554704,0.333333333,1,1,,,1.666666667
+15123,Can someone with type 2 diabetes donate blood? ,[],[],[],0.101237884,0.736941576,0.768613339,0.833333333,0.714285714,0,,,1.666666667
+3684880,Can fruit smoothies give you type 2 diabetes? ,[],[],[],0.095593107,0.722788453,0.802476287,0.833333333,0.714285714,0,,,1
+1196417,Can Type 2 diabetes lead to type 1 diabetes over time? ,[],[],[],0.203471669,0.707799852,0.883990109,0.916666667,0.857142857,0,,,0.833333333

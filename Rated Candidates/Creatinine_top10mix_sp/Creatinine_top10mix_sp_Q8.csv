@@ -1,0 +1,13 @@
+,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Creatinine test,Creatinine range,GS
+1945491,"My blood group is B+, haemoglobin 10.3 gm%, creatinine 2.03 mg/dl, potasiam 5.2.are these ok if not how to? ",[],[],"['Creatinine', '=', '10.3', 'gm', 'Creatinine', '=', '2.03', 'mg/dl', 'Creatinine', '=', '5.2']",1,1,1,1,1,1,1,1,
+,,,,,,,,,,,,,
+2881861,My father had diabetes and his Serum Creatinine 2.0 and Blood Urea is 70. How severe are these values? ,[],[],"['Creatinine', '=', '2.0', 'Creatinine', '=', '70']",0.089307007,0.73339951,0.719271004,1,0.888888889,1,1,1,4.666666667
+560891,My creatinine level was 2.37. I am a type one diabetic ... what should I do ? ,[],[],"['Creatinine', '=', '2.37']",0.055577299,0.737674952,0.733092666,0.846153846,0.888888889,1,1,1,3.333333333
+1224625,"My mother aged 45 has only one kidney.creatinine level 4.2,Urea 50,what diet she should take,what medicine? ",[],[],"['Creatinine', '=', '4.2', 'Creatinine', '=', '50']",0,0.700032592,0.516226172,0.769230769,0.888888889,0,1,1,3.333333333
+1229904,"My mother aged 45 has only one kidney.creatinine level 4.2,Urea 50,what diet she should take,what medicin? ",[],[],"['Creatinine', '=', '4.2', 'Creatinine', '=', '50']",0,0.701731086,0.506791711,0.769230769,0.888888889,0,1,1,3.333333333
+1330863,I am female. Age 55years. My S creatinine 5.1 what can I do? ,[],[],"['Creatinine', '=', '5.1']",0.054139436,0.684322834,0.613780856,0.538461538,0.777777778,1,1,1,2.666666667
+3251083,Is s. creatinine 1.6 mg/dl high? what foods should be eaten to control it.? ,[],[],"['Creatinine', '=', '1.6', 'mg/dl']",0.139455683,0.719053328,0.620578289,0.615384615,0.888888889,1,1,1,2.666666667
+867867,"stage 5 renal failure, w/creatinine=4.98? my friend is in renal failure....how long can he go w/o dialysis?",[],[],"['Creatinine', '=', '4.98']",0,0.697706044,0.636791825,0.846153846,1,0,1,1,1.666666667
+3663888,is an A1c level of 8.0 bad? ,[],"['HBA1C,', '=', '8.0,']",[],0,0.51708132,0.717763305,0.076923077,0.777777778,0,0,0,1.333333333
+206969,My blood sugar level is 203? How can I take it down fast,"['blood_glucose_measurement,', '=', '203,']",[],[],0.220144529,0.709251642,0.690910578,0.538461538,0.888888889,1,0,0,0.666666667
+2247438,why plasma glucose is 10 to 15% higher than corresponding whole blood glucose concentration? ,"['plasma_glucose_result,', '>=', '10,', '%,', 'plasma_glucose_result,', '<=', '15,', '%']",[],[],0.049299809,0.604412377,0.709613562,0.615384615,0.888888889,1,0,0,0.666666667

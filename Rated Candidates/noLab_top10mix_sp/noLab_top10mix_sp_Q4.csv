@@ -1,0 +1,13 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,,,GS
+2164960,What causes Type 2 diabetes? ,[],[],[],1,0.999999881,1,1,1,1,,,
+,,,,,,,,,,,,,
+1065223,what are the causes of type 2 diabetes? ,[],[],[],1,0.87554121,0.939343274,0.5,0,1,,,5
+3423582,What causes both types of Diabetes? type 1 and type 2,[],[],[],0.868749554,0.879552126,0.953401566,0,0.25,1,,,4.333333333
+660965,what is diabetes and what causes it? ,[],,,0.827981028,0.750055671,0.949553371,0.666666667,0.25,1,,,4.166666667
+853630,what causes diabetes? is sugar one of the causes?,[],,,0.504519436,0.745525181,0.920408845,0.333333333,0,1,,,3.833333333
+3290411,What causes diabetes to show up? What causes diabetes?,[],,,0.643451702,0.813902021,0.933369637,0.333333333,0.75,1,,,3.777777778
+2692388,Why Sugar Causes Diabetes? Why sugar causes this?,[],,,0.421584769,0.679726243,0.86565268,0.5,1,1,,,2.5
+3626044,What causes teary eyes in Type 2 diabetics? ,[],[],[],0.466419551,0.819221735,0.874945164,0.5,0.75,1,,,1.666666667
+3780165,What type of disease is Type 2 diabetes? ,[],[],[],0.466549389,0.808775306,0.904949963,0.5,0.5,1,,,1.666666667
+540859,What are the symptoms of type 2 diabetes? ,[],[],[],0.346963277,0.821621895,0.917259514,0.5,0.25,1,,,1.333333333
+313813,What are the types of diabetes? ,[],,,0.727568464,0.704890668,0.880931735,0.833333333,0.25,1,,,1

@@ -1,0 +1,29 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+3779970,"my 5 year old child fasting blood sugar is 110mg/dl ,How it is normal or she want to medicine,? ","[,', 'Glucose,', '=', '110,', 'mg/dl]",[],[],1,1.000000119,1.000000238,1,1,0,1,1,
+,,,,,,,,,,,,,
+430242,my 13 year olds blood sugar Level first thing in the morning before eating was 120 is this ok? ,"[,', 'blood_glucose_measurement,', '=', '120,]",[],[],0.090467788,0.76457262,0.857860506,1,0.857142857,0,1,1,4.333333333
+380751,normal blood sugar level for 3 year old child? ,[],[],[],0.497831558,0.660690308,0.845136106,0.090909091,0.285714286,0,0,0,4
+1085172,my 3 year olds fasting sugar was 328 is that normal? ,[],[],[],0.349869369,0.79616797,0.829761088,0.272727273,0.714285714,0,0,0,3.333333333
+1330832,what is a normal blood sugar level for a 7 year old boy.? ,[],[],[],0.26024672,0.674977303,0.787019551,0.454545455,0.714285714,1,0,0,3.333333333
+158927,50 years old bedtime blood sugar was 166 am I diabetic? ,[],[],[],0.130318985,0.712043047,0.756518424,0.272727273,0.428571429,0,0,0,2.666666667
+1204107,what is the normal blood sugar level for 27 year old male? ,[],[],[],0.225692963,0.654635131,0.726720333,0.363636364,0.714285714,1,0,0,2.666666667
+1186155,"3 year old daughter with blood,glucose and protein in urine. Is this normal? ",[],[],[],0.120983969,0.756039262,0.703282237,0.454545455,0.714285714,0,0,0,1.666666667
+2488379,What is the normal blood sugar level for a 3 month old baby? ,[],[],[],0.172568181,0.666062117,0.807581902,0.454545455,0.714285714,1,0,0,1.666666667
+810088,i am 40 year old with diabetic. my bloop pressure is 150/95. should I start taking drug for blood pressure? ,[],[],[],0.062981592,0.733787656,0.596526742,0.909090909,0.857142857,0,0,0,0.666666667
+2919537,why does my 4 year old child crave pure sugar? ,[],[],[],0.254756259,0.713564336,0.68585217,0.181818182,0.571428571,1,0,0,0.5
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

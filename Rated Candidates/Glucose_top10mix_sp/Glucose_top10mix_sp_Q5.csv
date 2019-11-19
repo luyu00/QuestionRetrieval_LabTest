@@ -1,0 +1,20 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+1856600,Fasting blood sugar is 130. am i diabetic? Im 30 years old female,"['Glucose,', '=', '130,']",[],[],1,1,0.999999881,1,1,0,1,1,
+,,,,,,,,,,,,,
+2826354,"My fasting blood sugar was 157, does that mean Im diabetic? ? ","['Glucose,', '=', '157,']",[],[],0.420199859,0.777619541,0.926236808,0.916666667,1,0,1,1,4.333333333
+1917603,my blood sugar level was 136 after meal. is it normal or im diabetic ? im very worried? ,"['blood_glucose_measurement,', '=', '136,']",[],[],0.288153914,0.792404115,0.892747521,0.583333333,0.333333333,0,1,1,4
+388270,is 130 high for blood sugar count? ,[],[],[],0.314042619,0.623834491,0.826289058,0.5,0.833333333,0,0,0,3.333333333
+1664691,my blood sugars 7.3 im 14 is this juvinial diabetes? ,[],[],[],0.261013957,0.772741616,0.876788259,0.75,1,0,0,0,3.333333333
+1206724,is 160 blood surgar count high? Im 53 yr. old man with blood sugar level 160,"['blood_glucose_measurement,', '=', '160,']",[],[],0.13378736,0.810048938,0.846633911,0.75,0.833333333,0,1,1,2.666666667
+1657155,"my fasting blood sugar 141 mg/dl & pp sugar is 110mg/dl, what does it mean? ","['Glucose,', '=', '141,', 'mg/dl,', 'Glucose,', '=', '110,', 'mg/dl']",[],[],0.151368576,0.734491825,0.863518119,0.833333333,0.666666667,1,1,1,2.666666667
+123590,What is the normal blood sugar level for a 14 year old ? what is it in mg ?,[],[],[],0.191214554,0.643048286,0.787026763,0.5,0.333333333,1,0,0,1.666666667
+517278,my blood sugar level is 400 what shall i do to reduce it? ,"['blood_glucose_measurement,', '=', '400,']",[],[],0.059177757,0.688955367,0.796823859,1,0.5,1,1,1,1.666666667
+2121109,what is the normal iron level for a 18 year old female? ,[],[],[],0.219201974,0.563752413,0.619702935,0.916666667,0.666666667,1,0,0,0.666666667
+83363,What is the vitamin b RDA for a 17 year old female? ,[],[],[],0.208967831,0.692720532,0.584872961,0.916666667,0.833333333,1,0,0,0.333333333
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

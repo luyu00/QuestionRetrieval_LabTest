@@ -1,0 +1,8 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+216699,after full food 2 hours later my random blood sugar level is 97.4 whether i am diabetic or not ? ,"[ 'blood_glucose_measurement,', '=', '97.4,]",[],[],1,0.999999881,1,1,1,0,1,1,
+,,,,,,,,,,,,,
+1616573,"Blood sugar level is 74mg, is this normal or pre-diabetic or diabetic? I tested 2 hours after eating.","['blood_glucose_measurement,', '=', '74,', 'mg']",[],[],0.192588538,0.790559173,0.935771644,0.833333333,0.666666667,0,1,1,4
+1994118,my blood sugar level after fasting for 12 hours was 6.6 does this mean i am diabetic? ,"[ 'blood_glucose_measurement,', '=', '6.6,]",[],[],0.199360768,0.858337641,0.885304213,0.75,0.888888889,0,1,0.666666667,3.666666667
+2303014,Blood sugar level of 80? Is it normal for blood sugar to be 80 two hours after eating?,"['blood_glucose_measurement,', '=', '80,']",[],[],0.126658166,0.773661852,0.892228007,0.833333333,0.888888889,0,1,1,3.666666667
+805231,what is the best way to control type 2 diabeties? my blood sugar level is 88/110,"['blood_glucose_measurement,', '>=', '88,', ',', 'blood_glucose_measurement,', '<=', '110,']",[],[],0.057012561,0.755102933,0.812762201,0.666666667,0.777777778,1,1,1,1.333333333
+2685205,Can a sugar patient consume watermelon? The blood sugar level is 164 pre prandial.,"['blood_glucose_measurement,', '=', '164,']",[],[],0.071028298,0.736685753,0.797186613,0.5,0.444444444,0,1,0.333333333,1.333333333

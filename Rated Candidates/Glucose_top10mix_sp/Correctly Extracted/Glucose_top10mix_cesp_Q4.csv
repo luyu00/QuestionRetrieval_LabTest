@@ -1,0 +1,8 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+2367457,My Nan has a blood sugar level of 2 I know this is bad (but how bad?)? thanks,"['blood_glucose_measurement,', '=', '2,']",[],[],1,0.99999994,1,1,1,1,1,1,
+,,,,,,,,,,,,,
+137344,Blood glucose meter reading was 106. Good or bad? Good or bad?,"['Glucose,', '=', '106,']",[],[],0.1513854,0.657470584,0.756040812,0.571428571,0.5,0,1,0.666666667,3
+568177,My Fasting blood sugar today read 359. How bad am I? ,"['Glucose,', '=', '359,']",[],[],0.142704716,0.807313442,0.781488299,0.5,0.375,1,1,0.333333333,3
+1795309,Is 503 blood sugar level bad? ,"['blood_glucose_measurement,', '=', '503,']",[],[],0.288388953,0.625468373,0.846263766,0.142857143,0.25,0,1,0.333333333,3
+1556401,26yrs weigh 72kg.is this bad? My blood sugar level is 6.1 what does this mean? ,"['blood_glucose_measurement,', '=', '6.1,']",[],[],0.157669268,0.813375115,0.792097211,0.785714286,0.75,1,1,0.666666667,2.666666667
+53967,"my post fasting blood sugar level is 65, what does it mean? ","['blood_glucose_measurement,', '=', '65,']",[],[],0.096214615,0.82257098,0.750003874,0.571428571,0.875,1,1,1,1.666666667

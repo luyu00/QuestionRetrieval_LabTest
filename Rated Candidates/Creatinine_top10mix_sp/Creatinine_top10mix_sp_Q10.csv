@@ -1,0 +1,13 @@
+,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Creatinine test,Creatinine range,GS
+158953,uric acid level 8.5 creatinine 1.3 & triglycerides214 suggest me diet? ,[],[],"['Creatinine', '=', '8.5', 'Creatinine', '=', '1.3']",1,0.999999881,1.000000119,1,1,0,1,1,
+,,,,,,,,,,,,,
+1224625,"My mother aged 45 has only one kidney.creatinine level 4.2,Urea 50,what diet she should take,what medicine? ",[],[],"['Creatinine', '=', '4.2', 'Creatinine', '=', '50']",0.104126558,0.588540793,0.63037312,0.615384615,0.571428571,0,1,1,4.333333333
+1229904,"My mother aged 45 has only one kidney.creatinine level 4.2,Urea 50,what diet she should take,what medicin? ",[],[],"['Creatinine', '=', '4.2', 'Creatinine', '=', '50']",0.104126558,0.590818644,0.655341864,0.615384615,0.571428571,0,1,1,4.333333333
+1330863,I am female. Age 55years. My S creatinine 5.1 what can I do? ,[],[],"['Creatinine', '=', '5.1']",0.056079295,0.576671004,0.724745393,0.846153846,0.714285714,1,1,1,3.666666667
+3462200,"diabetes, creatinine 3? my mother has type 2 diabetes, now creatinine level is 3. any suggestions?",[],[],"['Creatinine', '=', '3']",0.201008285,0.674017668,0.678189099,0.615384615,0.428571429,0,1,1,3.333333333
+3386264,my serum creatinine level is 1.42 is it riski? i am alcoholic,[],[],"['serum_creatinine_level', '=', '1.42']",0.087856796,0.736975431,0.683694422,0.923076923,0.428571429,0,1,1,2.666666667
+1561633,my uric acid level is 537umol/L can u suggest the diet.....? ,[],[],[],0.525267647,0.739352822,0.901363432,1,0.571428571,0,0,0,2.5
+2367631,does the blood sugar level increase due to increased level of uric acid in the body? ,,,,0.199523305,0.625567794,0.664399266,0.615384615,0.428571429,0,0,0,1.666666667
+184577,"how to control acidity? please suggest some home remedies for acidity , purely herbal.",,,,0.206882408,0.571656346,0.69378525,0.769230769,0.571428571,1,0,0,1
+3772067,acidity problem......? acidity that is burning in below to neck  up to stomach after 1-2 hr of eating food....help,[],[],[],0.11946158,0.633388341,0.685896576,0.384615385,0,0,0,0,0.666666667
+246860,"permissible cholesterol hdl and ldl values? triglycerides, values",,,,0,0.755002141,0.634977698,0.769230769,1,0,0,0,0.333333333

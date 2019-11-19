@@ -1,0 +1,13 @@
+,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Creatinine test,Creatinine range,GS
+3386264,my serum creatinine level is 1.42 is it riski? i am alcoholic,[],[],"['serum_creatinine_level', '=', '1.42']",1,0.999999881,1.000000119,1,1,0,1,1,
+,,,,,,,,,,,,,
+3251083,Is s. creatinine 1.6 mg/dl high? what foods should be eaten to control it.? ,[],[],"['Creatinine', '=', '1.6', 'mg/dl']",0.042664603,0.718104839,0.675829768,0.857142857,0.8,1,1,1,3.666666667
+490298,"What is Serum Chemistry. My Serum Creatinine shows 1.50MG/DL, what that means & what precaution should be take? ",[],[],"['Creatinine', '=', '1.50', 'mg/dl']",0.221721157,0.736571729,0.683628857,0.571428571,1,1,1,1,3.5
+1994402,is creatinine level 1.7 high for a man hyoertensive aged 75y? ,[],[],"['Creatinine', '=', '1.7']",0.077454687,0.722092271,0.670649171,0.928571429,0.6,0,1,1,3.333333333
+72773,"if creatinine level is 42 in the result of blood test, is it serious problem in the renal function? ",[],[],"['Creatinine', '=', '42']",0.068256974,0.701586247,0.805333018,0.5,0.8,0,1,0.333333333,3
+2881861,My father had diabetes and his Serum Creatinine 2.0 and Blood Urea is 70. How severe are these values? ,[],[],"['Creatinine', '=', '2.0', 'Creatinine', '=', '70']",0.130069471,0.767415345,0.772441328,0.5,0.8,1,1,1,2.666666667
+3478300,is a 53.0 mg CREATININE level normal for a woman? ,[],[],"['Creatinine', '=', '53.0', 'mg']",0.096128461,0.673953116,0.746473491,0.857142857,0.6,0,1,0.333333333,2.666666667
+158953,uric acid level 8.5 creatinine 1.3 & triglycerides214 suggest me diet? ,[],[],"['Creatinine', '=', '8.5', 'Creatinine', '=', '1.3']",0.07099047,0.736975431,0.683694422,0.928571429,0.2,0,1,1,1.833333333
+490322,how can i increase my creatinine level? ,,,,0.163620036,0.679897308,0.659674048,0.642857143,0.8,1,0,0,1.666666667
+3251169,If creatinine is given as 278 what is the unit it is expressed? My BUN level is 21.,[],[],"['Creatinine', '=', '278']",0.075234808,0.82886374,0.629325628,0.571428571,1,1,1,1,0.666666667
+829614,Potassium level was 0.6? With potassium level that low how long is it survivable?,[],[],[],0.061521127,0.748804748,0.591216803,0.857142857,1,1,0,0,0.333333333

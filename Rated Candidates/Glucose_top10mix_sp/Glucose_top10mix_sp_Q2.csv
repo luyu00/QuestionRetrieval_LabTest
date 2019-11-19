@@ -1,0 +1,30 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+83397,"My glucose is 120, tryglycerides 95, LDL 128, HDL 53, carbon dioxide 32, what does this mean? ","['Glucose,', '=', '120,', ',', 'Glucose,', '=', '95,', ',', 'Glucose,', '=', '128,', ',', 'Glucose,', '=', '53,', ',', 'Glucose,', '=', '32,']",[],[],1,0.999999881,1,1,1,1,1,1,
+,,,,,,,,,,,,,
+214172,What does it mean when your blood sugar level is 100 and you feel like it is low? ,"['blood_glucose_measurement,', '=', '100,']",[],[],0.029871282,0.622708798,0.74534601,0.923076923,0.571428571,1,1,1,3.333333333
+1657155,"my fasting blood sugar 141 mg/dl & pp sugar is 110mg/dl, what does it mean? ","['Glucose,', '=', '141,', 'mg/dl,', 'Glucose,', '=', '110,', 'mg/dl']",[],[],0.02707341,0.830936909,0.767809928,0.846153846,0.857142857,1,1,0.666666667,3.333333333
+3251157,what is mean glucose? HbA1C  is 7.8. Mean blood glucose is 201.68. Is it normal or higher level?,"['mean_Glucose,', '=', '201.68,']",[],[],0.121708302,0.741673052,0.800590217,0.923076923,1,1,1,0.666666667,3.333333333
+3563384,What does it mean when your blood sugar level is 123? ,"['blood_glucose_measurement,', '=', '123,']",[],[],0.046186206,0.600533605,0.791331172,0.538461538,0.857142857,1,1,1,3.333333333
+293327,My glucose level is at 103mg/dl after fasting test? What does it mean? ,[],[],[],0.09255732,0.776587129,0.770501494,0.692307692,0.857142857,1,0,0,2.666666667
+3515978,what does it means when your glucose (sugar) level is 150 after 5 hrs? ,"['Glucose,', '=', '150,', ',', 'Glucose,', '=', '5,']",[],[],0.089983447,0.675770998,0.800108075,0.769230769,0.571428571,1,1,0.666666667,2.666666667
+219393,what is the meaning of blood glucose ? ,,,,0.188332068,0.502147019,0.720010221,0.307692308,1,1,0,0,1.666666667
+1945491,"My blood group is B+, haemoglobin 10.3 gm%, creatinine 2.03 mg/dl, potasiam 5.2.are these ok if not how to? ",[],[],"['Creatinine', '=', '10.3', 'gm', 'Creatinine', '=', '2.03', 'mg/dl', 'Creatinine', '=', '5.2']",0,0.8315624,0.76335001,0.846153846,0.857142857,1,0,0,1.666666667
+308576,Iam taking Mixtard insulin for one month. Morning 36 U evening 32. My age 53. Is Insulin lead to complication? ,[],[],[],0.117884847,0.695846975,0.746831417,0.769230769,0.714285714,0,0,0,0.333333333
+1113824,What do my ferritin levels mean? My ferritin levels are 17 ug/L (20-200) L,[],[],[],0.022798133,0.760720253,0.683353424,0.769230769,0.857142857,1,0,0,0.333333333
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

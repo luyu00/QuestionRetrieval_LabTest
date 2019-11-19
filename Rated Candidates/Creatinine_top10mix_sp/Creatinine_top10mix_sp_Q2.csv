@@ -1,0 +1,13 @@
+,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Creatinine test,Creatinine range,GS
+1330863,I am female. Age 55years. My S creatinine 5.1 what can I do? ,[],[],"['Creatinine', '=', '5.1']",1,0.99999994,0.999999762,1,1,1,1,1,
+,,,,,,,,,,,,,
+1229904,"My mother aged 45 has only one kidney.creatinine level 4.2,Urea 50,what diet she should take,what medicin? ",[],[],"['Creatinine', '=', '4.2', 'Creatinine', '=', '50']",0.082561575,0.723894119,0.665582657,0.769230769,0.833333333,0,1,1,4.333333333
+560891,My creatinine level was 2.37. I am a type one diabetic ... what should I do ? ,[],[],"['Creatinine', '=', '2.37']",0.084668399,0.811863601,0.751477301,0.692307692,0.5,1,1,1,3.888888889
+1224625,"My mother aged 45 has only one kidney.creatinine level 4.2,Urea 50,what diet she should take,what medicine? ",[],[],"['Creatinine', '=', '4.2', 'Creatinine', '=', '50']",0.082561575,0.72209394,0.656872273,0.769230769,0.833333333,0,1,1,3.666666667
+3080030,My fathers S.Creatinine level is 1.4 and S.Urea is 34.....what does that mean? ,[],[],"['Creatinine', '=', '1.4', 'Creatinine', '=', '34']",0,0.724958479,0.419147998,1,0.833333333,0,1,1,3.666666667
+1626443,my creatinine is 1.6. what is the treatment for it? ,[],[],"['Creatinine', '=', '1.6']",0.103243076,0.687436581,0.761334539,0.769230769,0.666666667,1,1,1,2.666666667
+1994402,is creatinine level 1.7 high for a man hyoertensive aged 75y? ,[],[],"['Creatinine', '=', '1.7']",0.152622911,0.573529184,0.609016419,0.846153846,1,0,1,1,2.5
+2518203,My fbs is now 5.68mol with hba1c of 5.1 is there a need to take diabetic medicine? ,"['Glucose,', '=', '5.68,', 'mol']","['HBA1C,', '=', '5.1,']",[],0.156582522,0.693596363,0.64200449,0.692307692,0.333333333,0,0,0,1.333333333
+3462199,my 16 yo sons Creatinine level is 115. What does this mean? ,[],[],"['Creatinine', '=', '16', 'Creatinine', '=', '115']",0.067377008,0.789914608,0.641764581,0.923076923,0.833333333,1,1,1,1.333333333
+3251169,If creatinine is given as 278 what is the unit it is expressed? My BUN level is 21.,[],[],"['Creatinine', '=', '278']",0.058079969,0.65711391,0.490274668,0.615384615,0.666666667,1,1,1,0.666666667
+308576,Iam taking Mixtard insulin for one month. Morning 36 U evening 32. My age 53. Is Insulin lead to complication? ,[],[],[],0.055710638,0.749079406,0.691040397,0.461538462,0.833333333,0,0,0,0.333333333

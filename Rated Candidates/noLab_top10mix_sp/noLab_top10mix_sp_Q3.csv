@@ -1,0 +1,13 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,,,GS
+3401930,what are the best diet for diabetic type 2? ,[],[],[],1,1,1.000000119,1,1,1,,,
+,,,,,,,,,,,,,
+174423,what is diet for type 2 patient? what is the proper diet for a person with diabet type 2?,[],[],[],0.636695986,0.829256535,0.939017654,0.230769231,0.5,1,,,4.833333333
+1186132,what are the best foods to control type 2 diabetis ? ,[],[],[],0.258003635,0.806525111,0.918166637,0.846153846,1,1,,,4.166666667
+3401826,What diet is best for diabetics? ,[],,,0.824682977,0.815068722,0.949502945,0.769230769,0.5,1,,,4.111111111
+3462243,Which diet works best for diabetes? Paleo (primal) or Dr. Mcdougall the starch diet?,[],,,0.356244147,0.7116853,0.873397708,0.615384615,0.75,0,,,3.666666667
+1780155,best diabetic snacks? what are the best diabetic snacks,[],,,0.288724854,0.807544231,0.797985852,1,0.75,1,,,3
+783482,what is the best way to cure diabetes type 2? ,[],[],[],0.371338495,0.79575789,0.906954408,0.923076923,1,1,,,2.444444444
+757524,what is the best medicine for diabetic patient? ,[],,,0.228899039,0.811851442,0.840129912,0.923076923,1,1,,,2
+1726895,What is the best type of medicine of all? I'm not sure what type of medication is the best.,[],,,0.37106453,0.712278009,0.566542149,0.230769231,0.75,1,,,1.333333333
+675243,What are the best types of insulin pumps? How much? ,[],,,0.233143353,0.811261475,0.761995673,0.923076923,0.75,1,,,1
+2189298,What would be the best nutritional diet for a kidney transplant patient? ,[],,,0.210430349,0.805224359,0.84283483,0.769230769,1,1,,,1

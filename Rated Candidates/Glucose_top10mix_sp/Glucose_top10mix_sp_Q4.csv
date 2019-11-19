@@ -1,0 +1,31 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+2367457,My Nan has a blood sugar level of 2 I know this is bad (but how bad?)? thanks,"['blood_glucose_measurement,', '=', '2,']",[],[],1,0.99999994,1,1,1,1,1,1,
+,,,,,,,,,,,,,
+137344,Blood glucose meter reading was 106. Good or bad? Good or bad?,"['Glucose,', '=', '106,']",[],[],0.1513854,0.657470584,0.756040812,0.571428571,0.5,0,1,0.666666667,3
+450669,My Blood sugar A1c level is 7.6 is what i was trying to ask. it that too high? ,[],"['HBA1C,', '=', '7.6,']",[],0.082290802,0.856152356,0.777829826,1,0.75,1,0,0,3
+568177,My Fasting blood sugar today read 359. How bad am I? ,"['Glucose,', '=', '359,']",[],[],0.142704716,0.807313442,0.781488299,0.5,0.375,1,1,0.333333333,3
+587770,is blood sugar 186 bad? I would like to know if 186 blood sugar bad??or am i in danger zone?,[],[],[],0.236572347,0.859890223,0.781487107,0.857142857,1,0,0,0,3
+1556401,26yrs weigh 72kg.is this bad? My blood sugar level is 6.1 what does this mean? ,"['blood_glucose_measurement,', '=', '6.1,']",[],[],0.157669268,0.813375115,0.792097211,0.785714286,0.75,1,1,0.666666667,2.666666667
+3516150,My blood sugar is 130 non-diabetic good? I havent ate for 7 almost 8 hours is that good or bad,[],[],[],0.09309741,0.833550453,0.782866538,0.857142857,0.75,0,0,0,2.666666667
+53967,"my post fasting blood sugar level is 65, what does it mean? ","['blood_glucose_measurement,', '=', '65,']",[],[],0.096214615,0.82257098,0.750003874,0.571428571,0.875,1,1,1,1.666666667
+187232,"what should be the normal blood sugar level for an adult after meals-1,,,2...3...4  hours? ",[s],[],[],0.09813255,0.63048327,0.772343159,0.714285714,0.875,1,1,0,1.666666667
+3563527,My blood sugar is 591? Im type two diabetes,[],[],[],0.045689493,0.77718997,0.748540998,0.357142857,0.375,0,0,0,1
+3663888,is an A1c level of 8.0 bad? ,[],"['HBA1C,', '=', '8.0,']",[],0.184294411,0.49975121,0.731028438,0.214285714,0.625,0,0,0,0.333333333
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

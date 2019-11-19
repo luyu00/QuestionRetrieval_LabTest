@@ -1,0 +1,26 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+2555099,fasting blood sugar question? if someone has a fasting blood sugar of 5.7( 105) is that highh??,"['Glucose,', '=', '5.7,']",[],[],1,0.999999881,1.000000119,1,1,0,1,1,
+,,,,,,,,,,,,,
+15094,my fasting Blood sugar is 114 and PPvalue is 92. Is it okay? ,"['Glucose,', '=', '114,', ',', 'Glucose,', '=', '92,']",[],[],0.1225502,0.792861462,0.901065588,0.733333333,0.75,0,1,1,4.333333333
+1018310,non fasting blood sugar of 6.9 is this high? ,"['Glucose,', '=', '6.9,']",[],[],0.138684523,0.86340034,0.895138741,0.466666667,0.625,0,1,1,4.333333333
+148260,what does a fasting blood sugar level of 107 mean? ,"['blood_glucose_measurement,', '=', '107,']",[],[],0.173772751,0.675049305,0.875823259,0.533333333,0.75,1,1,1,3.888888889
+3545916,my fasting blood sugar is 82 and after meal 158 i am fear i am diabetic? ,"['Glucose,', '=', '82,', ',', 'Glucose,', '=', '158,']",[],[],0.111903128,0.749090076,0.811105192,0.933333333,1,0,1,0.666666667,3.666666667
+53967,"my post fasting blood sugar level is 65, what does it mean? ","['blood_glucose_measurement,', '=', '65,']",[],[],0.15291932,0.793292642,0.847174048,0.666666667,0.875,1,1,0.666666667,2.666666667
+3746702,"Not for a fasting blood sugar level, but is 149 ok? ","['blood_glucose_measurement,', '=', '149,']",[],[],0.150130723,0.760695159,0.894874692,0.6,0.75,0,1,0.666666667,2.666666667
+2758798,LOWER BLOOD SUGAR READING FAST? ,,,,0.168803398,0.700485587,0.678790331,0.2,0.25,0,0,0,1.666666667
+19741,Fasting glucose check? Is is 24 hours too long or not to fast for a fasting blood glucose check?Thanks,[s],[],[],0.108341482,0.772929251,0.897033453,0.866666667,0.875,0,1,0,0.666666667
+468174,how to lower down fasting blood sugar values fast? ,,,,0.211614679,0.709866941,0.805261612,0.466666667,0.625,1,0,0,0.666666667
+925093,how many hours before a fasting blood test must you fast for? ,,,,0.117518154,0.662984252,0.806336105,0.666666667,0.75,1,0,0,0.666666667
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

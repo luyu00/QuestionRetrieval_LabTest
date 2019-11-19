@@ -1,0 +1,8 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+1891547,i just had 3 cup water and did my blood sugar level it was 5.3 is this normal for non-diabetic? ,"['blood_glucose_measurement,', '=', '3,', ',', 'blood_glucose_measurement,', '=', '5.3,']",[],[],1,1,0.99999994,1,1,0,1,1,
+,,,,,,,,,,,,,
+1603783,5.8 blood sugar levels. normal? is it normal???,"['blood_glucose_measurement,', '=', '5.8,']",[],[],0.252164633,0.6533072,0.867043972,0.076923077,0.1,0,1,0.666666667,3.666666667
+670483,Is 150 a normal fasting blood sugar for a non-diabetic? ^^^^^^^^^^^^,"['Glucose,', '=', '150,']",[],[],0.330379656,0.661381006,0.783784151,0.307692308,0.1,0,1,0.333333333,3.666666667
+853649,5.8 blood sugar levels!? Is this normal?,"['blood_glucose_measurement,', '=', '5.8,']",[],[],0.221223408,0.657162786,0.896611214,0,0,0,1,0.666666667,3.666666667
+846538,blood sugar level 29? what happens if blood sugar level is 29?,"['blood_glucose_measurement,', '=', '29,']",[],[],0.132366747,0.696864724,0.80416441,0.384615385,0.2,1,1,1,1.666666667
+1008044,URGENT when a diabetic is pale and dizzy and has the blood sugar level around 200 what should i do!? ,"['blood_glucose_measurement,', '=', '200,']",[],[],0.067632174,0.708704531,0.752298951,1,0.8,1,1,0.333333333,1.666666667

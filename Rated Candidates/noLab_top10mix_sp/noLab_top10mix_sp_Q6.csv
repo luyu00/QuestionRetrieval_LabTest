@@ -1,0 +1,13 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,,,GS
+229449,is there a cure for diabetes type 1 yes or no question? ,[],[],[],1,0.99999994,1,1,1,0,,,
+,,,,,,,,,,,,,
+915887,is there a cure for type 1 diabetes? ,[],[],[],0.41657994,0.866629124,0.941933215,0.714285714,0.5,0,,,5
+1494896,Is there a cure for type 1 diabetes? Is there any cure yet? Or tests?,[],[],[],0.223696199,0.887972653,0.883008122,0.785714286,0.5,0,,,5
+1994344,is there a cure for diabetes? ,,,,0.352038921,0.824394643,0.915007532,0.571428571,0.5,0,,,4.666666667
+3499312,is there a cure for diabetes? ,,,,0.352038921,0.824394643,0.915007532,0.571428571,0.5,0,,,4.666666667
+257092,i am diabetic from 4years what vitimins should cure my diabetic? ,[],[],[],0.148950978,0.655759692,0.814218879,0.928571429,1,1,,,3.666666667
+592804,Is diabetes curable? If yes what % of patients get cured & howmany have been cured in India till now? ,,,,0.30616692,0.737255871,0.716472626,0.428571429,0.75,1,,,3.666666667
+610804,what does type 1 diabetics have to take tell me specifically.? ,[],[],[],0.07084329,0.691720367,0.764323235,0.928571429,0.75,1,,,3
+156394,"what is the defect in the disease, diabetes mellitus Type 1? does anyone know? ty",[],[],[],0.052788177,0.7636168,0.782110751,0.785714286,0.75,1,,,1.666666667
+573234,what is type 1 and 2 diabetes? please explain type 1 and 2 diabetes?,[],[],[],0.159029306,0.692213416,0.755748212,0.857142857,0.25,1,,,1.666666667
+889747,Are you aware about diabetes type 1? Do you know everything you can about diabetes? reply with what you know.,[],[],[],0.0758537,0.73919785,0.813101411,0.428571429,0.75,1,,,1.666666667

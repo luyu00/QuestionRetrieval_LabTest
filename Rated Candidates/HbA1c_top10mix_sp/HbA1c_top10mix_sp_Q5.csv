@@ -1,0 +1,13 @@
+﻿,,,,,TF-IDF,ELMo,Universal Sentence Encoder,Sentence length,Stopword count,WH question type,HbA1c test,HbA1c range,GS
+1606266,hba1c 6.5 does this indicate im diabetic? never had test before,[],"['HBA1C,', '=', '6.5,']",[],1,0.99999994,0.99999994,1,1,0,1,1,
+,,,,,,,,,,,,,
+3780245,"HbA1c of 5.7, am i prediabetic? ",[],"['HBA1C,', '=', '5.7,']",[],0.090944569,0.700967431,0.747062206,0.642857143,0.875,0,1,0.666666667,4.666666667
+246859,my fbs test 120mg/dl and hba1c 5.9% do i have diabetes ? do i have diabetes ?,"['Glucose,', '=', '120,', 'mg/dl']","['HBA1C,', '=', '5.9,', '%']",[],0.281360242,0.759798646,0.833953619,0.571428571,0.875,0,1,0.666666667,4.111111112
+3440084,My fbs test 113 mg/dl and hba1c 5.9% do i have diabetes ? ,"['Glucose,', '=', '113,', 'mg/dl']","['HBA1C,', '=', '5.9,', '%']",[],0.220969961,0.746719301,0.849944353,0.857142857,1,0,1,0.666666667,3.833333335
+860736,"Diabetics: Whats your a1c? And if its under 6.5, what do you do to keep it that way?",[],[],[],0.189955232,0.696003676,0.732027054,0.5,0.25,1,0,0,3.666666667
+3251157,what is mean glucose? HbA1C  is 7.8. Mean blood glucose is 201.68. Is it normal or higher level?,[],"['HBA1C,', '=', '7.8,']",[],0.04368377,0.730818868,0.78105098,0.5,1,1,1,1,2.66666667
+3516253,the blood sugar HbA1c is 11.00 is it curable? age 46gender female,[],"['HBA1C,', '=', '11.0,']",[],0.055869337,0.703904569,0.683277905,0.928571429,0.875,0,1,1,2.33333333
+1692067,can i have a baby if my hba1c is 9.8? ,[],"['HBA1C,', '=', '9.8,']",[],0.090944569,0.725084066,0.581907511,0.928571429,0.625,0,1,1,1.66666667
+3808799,I have nill glucose in urine test but my HbA1C is 10?/ How come? ,[],"['HBA1C,', '=', '10.0,']",[],0.169501529,0.766876578,0.804696977,0.785714286,0.875,1,1,1,1.666666665
+57974,"i had an fbs test recently and the result is 365mm/dl, am i diabetic ,im 43 years old? ","['Glucose,', '=', '365,', 'mm/dl,', 'Glucose,', '=', '43,', 'years']",[],[],0.210212836,0.747722983,0.832980156,0.5,0.625,0,0,0,0.666666667
+1356700,after a 3hr glucose test my blood sugar # was 60 after eating :554 havent been diagnosed with diabetes? ,"['Glucose,', '=', '3,']",[],[],0.11745784,0.745507419,0.866226554,0.428571429,0.75,0,0,0,0.666666667

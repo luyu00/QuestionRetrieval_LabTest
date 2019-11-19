@@ -1,0 +1,13 @@
+﻿,,,,,TF-IDF,ELMo,Universal Sentence Encoder,Sentence length,Stopword count,WH question type,HbA1c test,HbA1c range,GS
+3780245,"HbA1c of 5.7, am i prediabetic? ",[],"['HBA1C,', '=', '5.7,']",[],1,1,1,1,1,0,1,1,
+,,,,,,,,,,,,,
+568193,my a1c is 5.4 do i have pre-diabetes? i am anemic and my a1c is 5.4 do i have pre-diabetes,[],"['HBA1C,', '=', '5.4,']",[],0.219637967,0.669393838,0.814092755,0,0.333333333,0,1,0.666666667,4.5
+246859,my fbs test 120mg/dl and hba1c 5.9% do i have diabetes ? do i have diabetes ?,"['Glucose,', '=', '120,', 'mg/dl']","['HBA1C,', '=', '5.9,', '%']",[],0.141284168,0.62952441,0.721116781,0.214285714,0.666666667,0,1,1,4
+1606266,hba1c 6.5 does this indicate im diabetic? never had test before,[],"['HBA1C,', '=', '6.5,']",[],0.135019691,0.700967431,0.747062206,0.642857143,0.833333333,0,1,0.666666667,3.833333333
+2881833,diabetes My A1C was 8.2 -is that ok? ,[],"['HBA1C,', '=', '8.2,']",[],0,0.643717289,0.785689473,0.857142857,0.833333333,0,1,0.666666667,3.333333333
+102910,my glucose is 290. does it mean i have diabetes? hba1c is = 13.3,"['Glucose,', '=', '290,']",[],[],0.147337029,0.648617506,0.797348499,0.428571429,0.5,0,0,0,2.666666667
+10149,5.9 ok for nondiabetic a1c score.....? paper says normal.,[],"['HBA1C,', '=', '5.9,']",[],0,0.625588417,0.660078645,0.785714286,0.666666667,0,1,1,2.333333333
+3516253,the blood sugar HbA1c is 11.00 is it curable? age 46gender female,[],"['HBA1C,', '=', '11.0,']",[],0.126557288,0.666178107,0.673541844,0.571428571,1,0,1,0.666666667,1.666666667
+2555099,fasting blood sugar question? if someone has a fasting blood sugar of 5.7( 105) is that highh??,"['Glucose,', '=', '5.7,']",[],[],0.162205865,0.566346586,0.690154195,0.214285714,0.5,0,0,0,1.333333333
+114931,what is an average blood sugar if your a1c is 17? ,[],"['HBA1C,', '=', '17.0,']",[],0,0.50335145,0.744519353,0.642857143,0.666666667,1,1,0.666666667,0.666666667
+519713,"Question about being prediabetic? If your prediabetic, does that mean you will eventually become diabetic?",,,,0.269398702,0.518646181,0.784897268,0.357142857,0.333333333,0,0,0,0.666666667

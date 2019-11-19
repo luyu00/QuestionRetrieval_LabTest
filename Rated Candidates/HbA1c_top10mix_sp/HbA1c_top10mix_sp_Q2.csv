@@ -1,0 +1,13 @@
+﻿,,,,,TF-IDF,ELMo,Universal Sentence Encoder,Sentence length,Stopword count,WH question type,HbA1c test,HbA1c range,GS
+865543,Not diabetic....3 months ago had a 6.1 Hemoglobin A1C...NOW ITS 5.8..Is that good? ,[],"['HBA1C,', '=', '6.1,', ',', 'HBA1C,', '=', '5.8,']",[],1,1,1,1,1,0,1,1,
+,,,,,,,,,,,,,
+3530491,Hemoglobin a1c testing results? 5.8. Then it also says average estmated glucose is 119.8. Are the results normal?,"['Glucose,', '=', '119.8,']",[],[],0.052763056,0.738096476,0.539788365,0.615384615,1,0,0,0,4.333333333
+3545649,Is 6.1 a good A1c level? Almost forgot I am a T1D.,[],"['HBA1C,', '=', '6.1,']",[],0.18906562,0.734369397,0.574267983,0.923076923,0.857142857,0,1,1,4.333333333
+3440084,My fbs test 113 mg/dl and hba1c 5.9% do i have diabetes ? ,"['Glucose,', '=', '113,', 'mg/dl']","['HBA1C,', '=', '5.9,', '%']",[],0,0.660982609,0.457838982,1,0.857142857,0,1,1,3.333333333
+24420,my a1c is 6.1.would you take the med metformin are try dieting first? ,[],"['HBA1C,', '=', '6.1,']",[],0,0.648376823,0.462795913,1,0.714285714,0,1,1,3
+778317,"My age is 27,my hemoglobin level is 15.1 is it normal? ",[],[],[],0.086786597,0.667454481,0.618170857,0.846153846,0.857142857,0,0,0,2.666666667
+790946,LOST 8-9-10 POUNDS...NOT DIABETIC BUT A1C WAS 6.1 IN JULY...WILL LOSING SOME WEIGHT HELP MY NEXT TESTING? ,[],"['HBA1C,', '=', '6.1,']",[],0.066589748,0.743681788,0.46062541,0.692307692,0.571428571,0,1,1,2.666666667
+1170767,What symptoms what I have if my A1C level was 13? ,[],"['HBA1C,', '=', '13.0,']",[],0,0.622236133,0.503694236,0.846153846,0.714285714,1,1,0.666666667,1
+3323445,if h1a1c blood sugar average level is 111 means iam diabeti c? ,[],[],[],0,0.617934823,0.479204029,0.923076923,0.857142857,0,0,0,1
+114931,what is an average blood sugar if your a1c is 17? ,[],"['HBA1C,', '=', '17.0,']",[],0,0.664569736,0.516074538,0.846153846,0.714285714,1,1,0.666666667,0.666666667
+652885,high blood surgar levels symptoms over 500? In a 1 year old.  What can happen if not treated promply?,[],[],[],0,0.690038621,0.462486595,0.538461538,0.714285714,1,0,0,0.333333333

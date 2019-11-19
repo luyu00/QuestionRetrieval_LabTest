@@ -1,0 +1,13 @@
+,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Creatinine test,Creatinine range,GS
+1994402,is creatinine level 1.7 high for a man hyoertensive aged 75y? ,[],[],"['Creatinine', '=', '1.7']",1,1,1,1,1,0,1,1,
+,,,,,,,,,,,,,
+3251083,Is s. creatinine 1.6 mg/dl high? what foods should be eaten to control it.? ,[],[],"['Creatinine', '=', '1.6', 'mg/dl']",0.141968028,0.642190397,0.614126086,0.75,0.833333333,1,1,1,4
+3386264,my serum creatinine level is 1.42 is it riski? i am alcoholic,[],[],"['serum_creatinine_level', '=', '1.42']",0.068103819,0.722092271,0.670649171,0.916666667,0.666666667,0,1,1,3.666666667
+1626443,my creatinine is 1.6. what is the treatment for it? ,[],[],"['Creatinine', '=', '1.6']",0.061110898,0.676014006,0.680122495,0.916666667,0.666666667,1,1,1,3.333333333
+3478300,is a 53.0 mg CREATININE level normal for a woman? ,[],[],"['Creatinine', '=', '53.0', 'mg']",0.069882115,0.801239491,0.71903491,0.916666667,1,0,1,0.333333333,3.333333333
+1330863,I am female. Age 55years. My S creatinine 5.1 what can I do? ,[],[],"['Creatinine', '=', '5.1']",0.190701469,0.573529184,0.609016419,0.833333333,1,1,1,1,2.666666667
+3386256,MY CREATININE LEVEL IS 2.04 . so how to decrease the creatinine level? Pls tell.,[],[],"['Creatinine', '=', '2.04']",0.123390374,0.696754098,0.665299356,0.666666667,0.833333333,1,1,1,2.666666667
+3462200,"diabetes, creatinine 3? my mother has type 2 diabetes, now creatinine level is 3. any suggestions?",[],[],"['Creatinine', '=', '3']",0.09138868,0.740757227,0.538104057,0.583333333,0.666666667,0,1,1,1.666666667
+158953,uric acid level 8.5 creatinine 1.3 & triglycerides214 suggest me diet? ,[],[],"['Creatinine', '=', '8.5', 'Creatinine', '=', '1.3']",0.053097362,0.721022666,0.53894043,1,0.666666667,0,1,1,1.666666667
+114931,what is an average blood sugar if your a1c is 17? ,[],"['HBA1C,', '=', '17.0,']",[],0.141557295,0.613114238,0.608096957,1,0.666666667,1,0,0,0.333333333
+288285,my fasting glucose level was 76 and my level 2 hours after eating was 87.is this ok? ,[],[],[],0.044610764,0.683810532,0.561759949,0.5,0.666666667,0,0,0,0.333333333

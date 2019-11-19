@@ -1,0 +1,13 @@
+,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Creatinine test,Creatinine range,GS
+3478300,is a 53.0 mg CREATININE level normal for a woman? ,[],[],"['Creatinine', '=', '53.0', 'mg']",1,0.999999762,1,1,1,0,1,1,
+,,,,,,,,,,,,,
+3455113,"Im male 45 years old, my creatinine results is 71.3 what is its means? ",[],[],"['Creatinine', '=', '45', 'years', 'Creatinine', '=', '71.3']",0.044614935,0.569161177,0.653042793,0.692307692,0.8,1,1,1,4
+3079780,"Albumin/Creatinine ratio? Is an Albumin/Creatinine ratio of 0.7 normal? Im female, 29.",[],[],"['Creatinine_ratio', '=', '0.7']",0.034141782,0.770932078,0.503063083,0.846153846,0.8,0,1,1,3.333333333
+72773,"if creatinine level is 42 in the result of blood test, is it serious problem in the renal function? ",[],[],"['Creatinine', '=', '42']",0.070902605,0.69231391,0.763745844,0.307692308,0.4,0,1,1,3
+1330863,I am female. Age 55years. My S creatinine 5.1 what can I do? ,[],[],"['Creatinine', '=', '5.1']",0.058086801,0.509039342,0.655440092,0.769230769,1,1,1,0.333333333,3
+1994402,is creatinine level 1.7 high for a man hyoertensive aged 75y? ,[],[],"['Creatinine', '=', '1.7']",0.077871773,0.801239491,0.71903491,0.923076923,1,0,1,0.333333333,2.833333333
+3386264,my serum creatinine level is 1.42 is it riski? i am alcoholic,[],[],"['serum_creatinine_level', '=', '1.42']",0.090958648,0.673953116,0.746473491,0.846153846,0.6,0,1,0.333333333,2.666666667
+3462200,"diabetes, creatinine 3? my mother has type 2 diabetes, now creatinine level is 3. any suggestions?",[],[],"['Creatinine', '=', '3']",0.121313463,0.663431406,0.584559321,0.538461538,0.6,0,1,0.333333333,1.833333333
+2589274,i am 58 yrs old my creatinine are 6.7 how long will i live without dailysis? ,[],[],"['Creatinine', '=', '58', 'Creatinine', '=', '6.7']",0.041294288,0.516795695,0.526685834,0.538461538,0.4,1,1,1,1.666666667
+1173447,"postprandial blood glucose level 166 milligrams is normal or not? if NO, then what is normal level?",[],[],[],0.162651246,0.760523915,0.750184774,0.461538462,0.6,1,0,0,0.333333333
+1204107,what is the normal blood sugar level for 27 year old male? ,"['blood_glucose_measurement,', '=', '27,', 'year']",[],[],0.092835224,0.680125117,0.679973126,0.846153846,0.8,1,0,0,0.333333333

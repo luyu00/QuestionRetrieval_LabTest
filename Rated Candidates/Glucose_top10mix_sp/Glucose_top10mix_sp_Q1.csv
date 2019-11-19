@@ -1,0 +1,25 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+836896,is 80 a normal glucose reading? ,"['Glucose,', '=', '80,']",[],[],1,0.999999881,1,1,1,0,1,1,
+,,,,,,,,,,,,,
+2303014,Blood sugar level of 80? Is it normal for blood sugar to be 80 two hours after eating?,"['blood_glucose_measurement,', '=', '80,']",[],[],0.432713676,0.702891111,0.775562704,0.2,0.428571429,0,1,1,4.666666667
+158952,"is 144 a good blood glucose reading after breakfast, it was 63 before.? ","['Glucose,', '=', '144,', ',', 'Glucose,', '=', '63,']",[],[],0.164076366,0.772729516,0.873170853,0.533333333,0.571428571,0,1,0.333333333,3.333333333
+3414948,is 106 a good glucose reading 2 hrs. after meal? ,"['Glucose,', '=', '106,', ',', 'Glucose,', '=', '2,', 'reading']",[],[],0.170338354,0.860410988,0.832538724,0.733333333,0.857142857,0,1,0.666666667,3.333333333
+1824451,is 3 a normal reading for blood sugar levels? ,"['blood_glucose_measurement,', '=', '3,']",[],[],0.334145158,0.834879875,0.884436846,0.8,0.857142857,0,1,1,3.166666667
+3779907,normal glucose for 80 year old female? ,[],[],[],0.477073315,0.690298021,0.803034842,0.933333333,0.857142857,0,0,0,2.833333333
+1912588,is a 13.8 reading on my glucose machine bad? as I am normal at 7,"['Glucose,', '=', '13.8,', 'reading']",[],[],0.308022618,0.745354533,0.886306107,0.4,0.285714286,0,1,0.333333333,2.777777778
+1204107,what is the normal blood sugar level for 27 year old male? ,[],[],[],0.100592446,0.661672115,0.744661331,0.6,0.714285714,1,0,0,1.333333333
+1242736,normal reading diabetic before eat? ,,,,0.319564038,0.590461731,0.752814412,0.933333333,0.857142857,0,0,0,1.333333333
+1645926,why we leave the glucose for at least 2 hour befure use? ,[],[],[],0.058195589,0.618691981,0.641170383,0.6,0.571428571,1,0,0,0.666666667
+1863485,What are the 5 types of glucose? ,"['Glucose,', '=', '5,']",[],[],0.119326148,0.591708422,0.629673243,0.933333333,0.857142857,1,1,1,0.666666667
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

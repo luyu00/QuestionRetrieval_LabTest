@@ -1,0 +1,21 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+216699,after full food 2 hours later my random blood sugar level is 97.4 whether i am diabetic or not ? ,"[ 'blood_glucose_measurement,', '=', '97.4,]",[],[],1,0.999999881,1,1,1,0,1,1,
+,,,,,,,,,,,,,
+2826304,"my blood sugar levels are,fasting:84 and post lunch after 2 hours :101 .whether i am diabetic or any care? ",[s],[],[],0.273780748,0.832666755,0.878389001,0.916666667,1,0,1,0,4.666666667
+187232,"what should be the normal blood sugar level for an adult after meals-1,,,2...3...4  hours? ",[s],[],[],0.148414762,0.716391325,0.780112803,0.5,1,1,1,0,4.333333333
+1994118,my blood sugar level after fasting for 12 hours was 6.6 does this mean i am diabetic? ,"[ 'blood_glucose_measurement,', '=', '6.6,]",[],[],0.199360768,0.858337641,0.885304213,0.75,0.888888889,0,1,0.666666667,3.666666667
+2303014,Blood sugar level of 80? Is it normal for blood sugar to be 80 two hours after eating?,"['blood_glucose_measurement,', '=', '80,']",[],[],0.126658166,0.773661852,0.892228007,0.833333333,0.888888889,0,1,1,3.666666667
+2881748,i have not eaten in 2 days and my blood sugar levels are 159? are these levels high,"[ 'blood_glucose_measurement,', '=', '159,]",[],[],0.094547339,0.809541464,0.867211998,0.833333333,0.888888889,0,1,0.333333333,2.833333333
+65473,what is the normal random sugar level for non diabetic? ,,,,0.26587427,0.614434838,0.851160049,0.166666667,0.666666667,1,0,0,2.666666667
+805231,what is the best way to control type 2 diabeties? my blood sugar level is 88/110,"['blood_glucose_measurement,', '>=', '88,', ',', 'blood_glucose_measurement,', '<=', '110,']",[],[],0.057012561,0.755102933,0.812762201,0.666666667,0.777777778,1,1,1,1.333333333
+2685205,Can a sugar patient consume watermelon? The blood sugar level is 164 pre prandial.,"['blood_glucose_measurement,', '=', '164,']",[],[],0.071028298,0.736685753,0.797186613,0.5,0.444444444,0,1,0.333333333,1.333333333
+979273,"What are 2 advantages of when our blood sugar level is high, our bodies converts the excess sugar to glycogen? ","['blood_glucose_measurement,', '=', '2,']",[],[],0.073007575,0.706023932,0.734019339,1,1,1,1,1,1
+3031576,I take Metformin and Byetta at night. My sugar drops too low 2 hours later.? ,[],[],[],0.183665132,0.759095132,0.784440994,0.583333333,0.555555556,0,0,0,0.666666667
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

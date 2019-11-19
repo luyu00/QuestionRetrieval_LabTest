@@ -1,0 +1,26 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+430242,my 13 year olds blood sugar Level first thing in the morning before eating was 120 is this ok? ,"[,', 'blood_glucose_measurement,', '=', '120,]",[],[],1,0.99999994,1,1,1,0,1,1,
+,,,,,,,,,,,,,
+2045285,blood sugar level of 119 two hours after eating. Is that ok? pre-diabetic? Or diabetic? ,[s],[],[],0.241811637,0.719815791,0.840220392,0.636363636,0.5,0,1,0,4
+2262940,what is normal blood sugar level for 15 yr old female after eating? ,"['blood_glucose_measurement,', '=', '15,']",[],[],0.19947701,0.742184162,0.834790826,0.454545455,0.625,1,1,0.666666667,4
+123590,What is the normal blood sugar level for a 14 year old ? what is it in mg ?,[],[],[],0.195526441,0.699436426,0.804217041,1,1,1,0,0,3.666666667
+1645923,is 110 blood sugar level before breakfast something to worry about? Thank you in advance,"['blood_glucose_measurement,', '=', '110,']",[],[],0.047920012,0.740240812,0.818601787,0.636363636,0.75,0,1,1,3.666666667
+158927,50 years old bedtime blood sugar was 166 am I diabetic? ,[],[],[],0.139490335,0.739724636,0.865551651,0.272727273,0.375,0,0,0,2.666666667
+380751,normal blood sugar level for 3 year old child? ,[],[],[],0.242863589,0.692665577,0.879809856,0.090909091,0.25,0,0,0,2.666666667
+2069138,i am 50 years old blood sugar level is 78 is that normal? ,"[ 'blood_glucose_measurement,', '=', '78,]",[],[],0.192782401,0.793967366,0.805961847,0.454545455,0.625,0,1,0.666666667,2
+2759111,i am a 50 year old female what should my blood sugar level be? ,[],[],[],0.213337023,0.689329863,0.759593129,0.545454545,0.875,1,0,0,1.666666667
+1758558,My morning sugar is always higher (120) than my bedtime sugar (100); could someone explain why? ,[],[],[],0.206874766,0.753508925,0.609430671,0.727272727,0.5,0,0,0,1
+1891518,what is Sugar in urine mean but not high Sugar level in blood my daughter is 4 years old? ,[],[],[],0.167122714,0.72640264,0.763322592,1,0.875,1,0,0,0.666666667
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

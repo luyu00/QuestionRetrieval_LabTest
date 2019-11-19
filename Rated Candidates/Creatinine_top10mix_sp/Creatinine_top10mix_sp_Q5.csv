@@ -1,0 +1,13 @@
+,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Creatinine test,Creatinine range,GS
+72773,"if creatinine level is 42 in the result of blood test, is it serious problem in the renal function? ",[],[],"['Creatinine', '=', '42']",1,1,1.000000238,1,1,0,1,1,
+,,,,,,,,,,,,,
+3455113,"Im male 45 years old, my creatinine results is 71.3 what is its means? ",[],[],"['Creatinine', '=', '45', 'years', 'Creatinine', '=', '71.3']",0.098111124,0.579920411,0.719195306,0.615384615,0.714285714,1,1,1,3.666666667
+2881861,My father had diabetes and his Serum Creatinine 2.0 and Blood Urea is 70. How severe are these values? ,[],[],"['Creatinine', '=', '2.0', 'Creatinine', '=', '70']",0.102352667,0.719833612,0.720408082,1,1,1,1,0.333333333,3
+3031552,0.9 creatine level is that normal for kidney function? ,[],[],[],0.173948321,0.785399675,0.778445602,0.230769231,0.571428571,0,0,0,3
+3386264,my serum creatinine level is 1.42 is it riski? i am alcoholic,[],[],"['serum_creatinine_level', '=', '1.42']",0.090627598,0.701586247,0.805333018,0.461538462,0.857142857,0,1,0.333333333,3
+2589274,i am 58 yrs old my creatinine are 6.7 how long will i live without dailysis? ,[],[],"['Creatinine', '=', '58', 'Creatinine', '=', '6.7']",0.034118319,0.561165571,0.612761021,0.769230769,1,1,1,1,2.333333333
+3251169,If creatinine is given as 278 what is the unit it is expressed? My BUN level is 21.,[],[],"['Creatinine', '=', '278']",0.072303217,0.733859301,0.726667881,0.923076923,0.857142857,1,1,0.333333333,2.333333333
+3462200,"diabetes, creatinine 3? my mother has type 2 diabetes, now creatinine level is 3. any suggestions?",[],[],"['Creatinine', '=', '3']",0.123217069,0.751937032,0.718985558,0.769230769,0.857142857,0,1,0.333333333,1.777777778
+867867,"stage 5 renal failure, w/creatinine=4.98? my friend is in renal failure....how long can he go w/o dialysis?",[],[],"['Creatinine', '=', '4.98']",0.166597384,0.695204318,0.705299974,0.846153846,0.857142857,0,1,0.333333333,1.333333333
+33376,"My SED rate is 42 and CRP result was 32.6, what is going on with my body? ",[],[],[],0.169957827,0.556540906,0.667363226,0.846153846,0.857142857,1,0,0,0.333333333
+1005535,can genetics play a factor in your risk for type 2 diabetes? ,[],[],[],0,0.694084585,0.596830487,0.461538462,0.857142857,0,0,0,0.333333333

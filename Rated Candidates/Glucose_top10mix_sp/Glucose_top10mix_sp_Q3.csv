@@ -1,0 +1,31 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,Glucose test,Glucose range,GS
+1891547,i just had 3 cup water and did my blood sugar level it was 5.3 is this normal for non-diabetic? ,"['blood_glucose_measurement,', '=', '3,', ',', 'blood_glucose_measurement,', '=', '5.3,']",[],[],1,1,0.99999994,1,1,0,1,1,
+,,,,,,,,,,,,,
+1603783,5.8 blood sugar levels. normal? is it normal???,"['blood_glucose_measurement,', '=', '5.8,']",[],[],0.252164633,0.6533072,0.867043972,0.076923077,0.1,0,1,0.666666667,3.666666667
+670483,Is 150 a normal fasting blood sugar for a non-diabetic? ^^^^^^^^^^^^,"['Glucose,', '=', '150,']",[],[],0.330379656,0.661381006,0.783784151,0.307692308,0.1,0,1,0.333333333,3.666666667
+853649,5.8 blood sugar levels!? Is this normal?,"['blood_glucose_measurement,', '=', '5.8,']",[],[],0.221223408,0.657162786,0.896611214,0,0,0,1,0.666666667,3.666666667
+1973889,for a non-diabetic is 5.1 fasting sugar normal ? ,[],[],[],0.300892032,0.679278255,0.707317293,0.153846154,0.2,0,0,0,3.666666667
+187232,"what should be the normal blood sugar level for an adult after meals-1,,,2...3...4  hours? ",[s],[],[],0.147565838,0.683286667,0.769018889,0.538461538,0.6,1,1,0,2.666666667
+844105,after about 4 hours after eating my blood sugar was 160? is that normal?,[],[],[],0.115623797,0.769670725,0.893008113,0.538461538,0.5,0,0,0,2.666666667
+846538,blood sugar level 29? what happens if blood sugar level is 29?,"['blood_glucose_measurement,', '=', '29,']",[],[],0.132366747,0.696864724,0.80416441,0.384615385,0.2,1,1,1,1.666666667
+1008044,URGENT when a diabetic is pale and dizzy and has the blood sugar level around 200 what should i do!? ,"['blood_glucose_measurement,', '=', '200,']",[],[],0.067632174,0.708704531,0.752298951,1,0.8,1,1,0.333333333,1.666666667
+93282,what is the normal range for sugar level in normal body? ,,,,0.180696123,0.649753213,0.779870808,0.307692308,0.4,1,0,0,0.333333333
+610774,does the water level change when a sugar is added to it? ,,,,0.246885105,0.66394496,0.485528201,0.384615385,0.5,1,0,0,0.333333333
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

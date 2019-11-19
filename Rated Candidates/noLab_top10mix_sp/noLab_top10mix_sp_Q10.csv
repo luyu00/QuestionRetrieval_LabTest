@@ -1,0 +1,29 @@
+﻿,,,,,TF-IDF,ELMo,USE,Sentence length,Stopword count,WH question type,,,GS
+1368266,What are the symptoms of a type 2 diabetic having too much sugar/glucose in thier system? ,[],[],[],1,1,1.000000119,1,1,1,,,
+,,,,,,,,,,,,,
+540859,What are the symptoms of type 2 diabetes? ,[],[],[],0.320642618,0.320642618,0.897414565,0.466666667,0.555555556,1,,,5
+2310962,what are the symptoms of diabetes 2? ,[],[],[],0.2435684,0.2435684,0.900054693,0.4,0.666666667,1,,,5
+1013295,What are the first symptoms of diabetes type 2? ,[],[],[],0.176433892,0.176433892,0.898244381,0.533333333,0.555555556,1,,,4.666666667
+1616555,what is symptoms signs of diabetes type 2? symptoms of type 1 diabetes,[],[],[],0.255437984,0.255437984,0.892185271,0.8,0.555555556,1,,,4.5
+283259,Type 1 Diabetics- how old were you when diagnosed and what symptoms were you exhibiting? ,[],[],[],0.11401955,0.11401955,0.693199694,0.933333333,0.888888889,1,,,3.333333333
+1771853,how would you know if your a diabetes? whats the blood sugar be like if your a diabetic,,,,0.040064113,0.040064113,0.85881561,0.866666667,1,1,,,3.333333333
+76371,what are the symptoms of type 1 diabetes that i will be able to notice? please helppppppppppppppppp,[],[],[],0.100342594,0.100342594,0.8730371,0.933333333,0.777777778,1,,,2.666666667
+2164960,What causes Type 2 diabetes? ,[],[],[],0.119376115,0.119376115,0.869344473,0.266666667,0.222222222,1,,,2.666666667
+443347,What is the average age of a person when he or she get Type 2 diabetes? ,[],[],[],0.065234338,0.065234338,0.801376939,1,0.888888889,1,,,1.666666667
+214172,What does it mean when your blood sugar level is 100 and you feel like it is low? ,"['blood_glucose_measurement,', '=', '100,']",[],[],0,0,0.752043247,0.866666667,1,1,,,0.666666667
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

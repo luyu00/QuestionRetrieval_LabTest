@@ -1,0 +1,13 @@
+﻿,,,,,TF-IDF,ELMo,Universal Sentence Encoder,Sentence length,Stopword count,WH question type,HbA1c test,HbA1c range,GS
+3516253,the blood sugar HbA1c is 11.00 is it curable? age 46gender female,[],"['HBA1C,', '=', '11.0,']",[],1,1,1,1,1,0,1,1,
+,,,,,,,,,,,,,
+450669,My Blood sugar A1c level is 7.6 is what i was trying to ask. it that too high? ,[],"['HBA1C,', '=', '7.6,']",[],0.077110712,0.725124836,0.725095451,0.538461538,0.285714286,1,1,1,3.333333333
+3251157,what is mean glucose? HbA1C  is 7.8. Mean blood glucose is 201.68. Is it normal or higher level?,[],"['HBA1C,', '=', '7.8,']",[],0.0863546,0.794345141,0.786236525,0.538461538,0.857142857,1,1,1,3.333333333
+1664691,my blood sugars 7.3 im 14 is this juvinial diabetes? ,[],[],[],0.086505977,0.821883023,0.732867003,0.846153846,1,0,0,0,3
+102910,my glucose is 290. does it mean i have diabetes? hba1c is = 13.3,[],"['HBA1C,', '=', '13.3,']",[],0.093351899,0.736283422,0.772386849,0.846153846,0.571428571,0,1,1,2.666666667
+1170767,What symptoms what I have if my A1C level was 13? ,[],"['HBA1C,', '=', '13.0,']",[],0,0.590408444,0.639499068,0.923076923,0.714285714,1,1,1,2.333333333
+117890,my blood sugar is 165 should i worry? Im not a dietabetic,[],[],[],0.087809936,0.747948766,0.638270974,1,0.571428571,0,0,0,2
+1692067,can i have a baby if my hba1c is 9.8? ,[],"['HBA1C,', '=', '9.8,']",[],0.133277889,0.668517053,0.620379746,0.846153846,0.428571429,0,1,1,1.666666667
+114931,what is an average blood sugar if your a1c is 17? ,[],"['HBA1C,', '=', '17.0,']",[],0.110788015,0.696604252,0.786005318,0.923076923,0.714285714,1,1,1,1.333333333
+45969,is a blood sugar level of 500+ dangerous for type1 diabetic? ,"['blood_glucose_measurement,', '=', '500,']",[],[],0.087249263,0.786696792,0.776677072,0.923076923,0.857142857,0,0,0,0.666666667
+817701,"Is Type 2 diabetes curable? How?If not, why not?",[],[],[],0.193236843,0.741693974,0.700777888,0.769230769,0.714285714,1,0,0,0.666666667
