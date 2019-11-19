@@ -1,0 +1,3 @@
+This folder contains:
+    1) a .ipynb for cosine similarity calculation of multi-level representations (tf-idf, ELMo, universal sentence encoder)
+    2) Ten test suites for each of the four groups (questions contain either creatine, glucose, HbA1c or no tests), each stored in an independent sub-folder, respectively.
