@@ -1,0 +1,5 @@
+This folder presents a collection of rated top-10 candidate of 4 test groups: 
+(questions containing creatinine/glucose/HbA1c tests or without any tests)
+Each test group consists of 10 query questions. Each test consists of a query question and the ranked candidates.
+The candidate questions were rated by three human annotators in range 0-5, both inclusive. 
+The scores in this folder are the averaged gold-standard ratings.
