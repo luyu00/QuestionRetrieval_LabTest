@@ -1,3 +1,4 @@
 This folder contains:
-    1) a .ipynb for cosine similarity calculation of multi-level representations (tf-idf, ELMo, universal sentence encoder)
-    2) Ten test suites for each of the four groups (questions contain either creatine, glucose, HbA1c or no tests), each stored in an independent sub-folder, respectively.
+    1) similarity_multi_level_vs_repr.ipynb for cosine similarity calculation of multi-level representations (tf-idf, ELMo, universal sentence encoder) between queries and candidates;
+    2) sem_type_filtering.ipynb for cosine similarity computation of UMLS concepts between queries and candidates;
+    3) Ten test suites for each of the four groups (questions contain either creatine, glucose, HbA1c or no tests), each stored in an independent sub-folder, respectively.
